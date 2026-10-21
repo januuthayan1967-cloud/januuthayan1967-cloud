@@ -158,38 +158,38 @@
     <path d="M -8,-9 L -3,11 L 3,11 L 8,-9 L 4,-9 L 0,6 L -4,-9 Z" fill="url(#goldGradient)" />
   </g>
 
-  <!-- Eyebrow Tagline -->
-  <text x="600" y="138" text-anchor="middle" fill="#C5A059" class="text-mono" opacity="0.95">
-    EXECUTIVE PORTFOLIO &amp; SYSTEMS ARCHITECTURE
+  <!-- Eyebrow: Candidate Full Official Name -->
+  <text x="600" y="138" text-anchor="middle" fill="#C5A059" class="text-mono" font-size="12.5" letter-spacing="3.5px" opacity="0.95">
+    UTHAYAGUNASINGAM VANOJAN
   </text>
 
-  <!-- Primary Headline: Candidate Full Name -->
+  <!-- Primary Headline: VANOJAN -->
   <g filter="url(#softShadow)">
-    <text x="600" y="196" text-anchor="middle" fill="url(#goldGradient)" class="text-title" font-size="34">
-      UTHAYAGUNASINGAM VANOJAN
+    <text x="600" y="196" text-anchor="middle" fill="url(#goldGradient)" class="text-title" font-size="44" letter-spacing="9px">
+      VANOJAN
     </text>
   </g>
 
   <!-- Accent Divider with Diamond Node -->
   <g transform="translate(600, 216)">
-    <line x1="-180" y1="0" x2="-20" y2="0" stroke="url(#goldBorderGrad)" stroke-width="1" />
+    <line x1="-190" y1="0" x2="-20" y2="0" stroke="url(#goldBorderGrad)" stroke-width="1" />
     <polygon points="0,-4 4,0 0,4 -4,0" fill="#FFF8D6" stroke="#D4AF37" stroke-width="0.8" />
-    <line x1="20" y1="0" x2="180" y2="0" stroke="url(#goldBorderGrad)" stroke-width="1" />
+    <line x1="20" y1="0" x2="190" y2="0" stroke="url(#goldBorderGrad)" stroke-width="1" />
   </g>
 
   <!-- Primary Professional Title -->
-  <text x="600" y="252" text-anchor="middle" fill="#FFFFFF" class="text-subtitle" font-size="18.5" opacity="0.95">
-    SOFTWARE ENGINEERING GRADUATE
+  <text x="600" y="250" text-anchor="middle" fill="#FFFFFF" class="text-subtitle" font-size="17.5" opacity="0.95">
+    SOFTWARE ENGINEERING GRADUATE | FULL-STACK DEVELOPER
   </text>
 
   <!-- Core Engineering Disciplines -->
-  <text x="600" y="286" text-anchor="middle" fill="#A0A5B2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="500" letter-spacing="1.2">
-    Full-Stack Distributed Systems <tspan fill="#D4AF37">✦</tspan> Native Android Architecture <tspan fill="#D4AF37">✦</tspan> AI-Integrated Solutions
+  <text x="600" y="284" text-anchor="middle" fill="#A0A5B2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500" letter-spacing="1.2">
+    Full-Stack Systems <tspan fill="#D4AF37">✦</tspan> Native Android Architecture <tspan fill="#D4AF37">✦</tspan> AI-Integrated Solutions
   </text>
 
-  <!-- Verified Academic Line -->
-  <text x="600" y="318" text-anchor="middle" fill="#757B8A" class="text-mono" font-size="11">
-    BSc (Hons) Software Engineering Candidate • ICBT / Cardiff Metropolitan University, UK
+  <!-- Verified Academic Line (Awaiting Final Results explicitly stated) -->
+  <text x="600" y="316" text-anchor="middle" fill="#757B8A" class="text-mono" font-size="10.8">
+    BSc (Hons) Software Engineering Candidate (Results Pending) • ICBT / Cardiff Metropolitan University, UK
   </text>
 
   <!-- Status Pill: Available for Opportunities -->
