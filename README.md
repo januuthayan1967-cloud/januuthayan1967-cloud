@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING SVG INTRO -->
 <a href="https://github.com/januuthayan1967-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Graduate+Software+Engineer+%7C+Full-Stack+Architect;BSc+(Hons)+Software+Engineering+Candidate;MERN+Stack+%E2%80%A2+Native+Android+(Java)+%E2%80%A2+AI+Systems;Seeking+Graduate+%26+Associate+Software+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Graduate+Software+Engineer+%7C+Full-Stack+Architect;BSc+Software+Engineering+Candidate;MERN+Stack+%E2%80%A2+Native+Android+%E2%80%A2+AI+Systems;Seeking+Graduate+%26+Associate+Software+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,9 +32,9 @@
 
 ### ✦ Executive Summary
 
-Graduate Software Engineer with an academic foundation in **Computing and Software Engineering** from **ICBT Campus** affiliated with **Cardiff Metropolitan University, UK**. 
+Graduate Software Engineer with a solid academic foundation in **Computing and Software Engineering** from **ICBT Campus** affiliated with **Cardiff Metropolitan University, UK**. 
 
-Experienced in architecting end-to-end full-stack applications with the **MERN stack**, engineered native mobile applications in **Java / Android SDK** with automated testing suites (JUnit & Robolectric), and built distributed systems integrating **Computer Vision & AI microservices** (MobileNetV3, OpenCV, Gemini AI). Focused on clean architecture, RESTful API design, database integrity, and scalable cloud deployments.
+Experienced in architecting end-to-end full-stack applications with the **MERN stack**, engineering native mobile applications in **Java / Android SDK** with automated testing suites (JUnit & Robolectric), and building distributed systems integrating **Computer Vision & AI microservices** (MobileNetV3, OpenCV, Gemini AI). Focused on clean architecture, RESTful API design, database integrity, and scalable cloud deployments.
 
 - 🎓 **Education:** BSc (Hons) in Software Engineering *(coursework completed, results pending)* & HND in Computing & Software Engineering *(Graduated 2025)*.
 - ⚡ **Core Strengths:** Full-Stack Architecture, Clean Code Practices, Test-Driven Development, Relational & NoSQL Modeling, Real-Time WebRTC Streaming.
@@ -48,7 +48,7 @@ Experienced in architecting end-to-end full-stack applications with the **MERN s
 
 #### ⬡ Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
@@ -89,10 +89,10 @@ Experienced in architecting end-to-end full-stack applications with the **MERN s
 
 #### ⬡ Mobile Development & Quality Assurance
 <p align="center">
-  <img src="https://img.shields.io/badge/Android_SDK_(API_35)-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/Android_SDK-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android SDK" />
   <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
   <img src="https://img.shields.io/badge/JUnit_4-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162" alt="JUnit 4" />
-  <img src="https://img.shields.io/badge/Robolectric_(53_Tests)-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Robolectric" />
+  <img src="https://img.shields.io/badge/Robolectric_Testing-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Robolectric" />
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
