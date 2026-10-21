@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING SVG INTRO -->
 <a href="https://github.com/januuthayan1967-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Graduate+Software+Engineer+%7C+Full-Stack+Developer;BSc+Software+Engineering+Candidate+(Results+Pending);React+%E2%80%A2+Node.js+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+SQL;Seeking+Graduate+%26+Associate+Software+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Graduate+Software+Engineer+%7C+Full-Stack+Developer;BSc+Software+Engineering+Candidate+(Results+Pending);React+%E2%80%A2+Node.js+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+SQL;Seeking+Graduate+%26+Associate+Roles" alt="Typing SVG" width="100%" style="max-width: 620px;" />
 </a>
 
 <br/>
@@ -62,24 +62,23 @@ Practical engineering background in full-stack web architectures, native Android
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-#### ⬡ Frontend Engineering
+#### ⬡ Frameworks & Core Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=D4AF37" alt="Express.js" />
   <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python_Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
   <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
 </p>
 
-#### ⬡ Backend & Distributed Systems
+#### ⬡ Backend Architecture & APIs
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=D4AF37" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python_Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
-  <img src="https://img.shields.io/badge/Java_EE-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java EE" />
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37" alt="JWT" />
   <img src="https://img.shields.io/badge/WebRTC-0D1117?style=for-the-badge&logo=webrtc&logoColor=339933" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Java_EE-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java EE" />
 </p>
 
 #### ⬡ Databases & Cloud Storage
@@ -115,100 +114,89 @@ Practical engineering background in full-stack web architectures, native Android
 
 ### ✦ Featured Engineering Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🩺 01. Smart Oral Disease Detection & Dental Care</h3>
-      <p><strong>BSc Capstone Flagship Project</strong></p>
-      <p>AI-assisted oral health platform combining deep learning image classification with clinical consultation workflows.</p>
-      <ul>
-        <li><strong>AI Screening:</strong> Python Flask microservice leveraging <code>MobileNetV3</code> transfer learning for oral lesion image classification.</li>
-        <li><strong>Clinical Workflows:</strong> Integrated specialist consultation workflows, appointment management, and automated PDF clinical reporting.</li>
-        <li><strong>Multi-Role Access:</strong> Role-based access control (RBAC) securely separating patient, doctor, and administrator portals.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack:</strong> <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Python Flask</code> • <code>MobileNetV3</code> • <code>MongoDB</code> • <code>Gemini AI</code>
-      </p>
-      <p>
-        🔗 <a href="https://smart-oral-disease-detection.vercel.app" target="_blank"><strong>Live Production App</strong></a> • <a href="https://github.com/januuthayan1967-cloud/smart-oral-disease-detection" target="_blank"><strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">💼 02. Internship Finder Platform</h3>
-      <p><strong>Full-Stack Recruitment Portal</strong></p>
-      <p>Production recruitment platform connecting students with companies for internship discovery, applications, and virtual interviews.</p>
-      <ul>
-        <li><strong>Video Interviews:</strong> Integrated low-latency <code>WebRTC</code> video interview sessions directly inside candidate/employer rooms.</li>
-        <li><strong>Role Dashboards:</strong> Dedicated dashboards for student applicants, corporate recruiters, and platform administrators.</li>
-        <li><strong>Application Tracking:</strong> End-to-end recruitment pipeline with Cloudinary CV uploads and real-time status transitions.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack:</strong> <code>React</code> • <code>Tailwind CSS</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>WebRTC</code>
-      </p>
-      <p>
-        🔗 <a href="https://github.com/januuthayan1967-cloud/internship-finder" target="_blank"><strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🏨 03. LuxeVista Resort Mobile Application</h3>
-      <p><strong>Native Android Luxury Hospitality Suite</strong></p>
-      <p>Native Android application designed for luxury resort and villa bookings, service reservations, and digital voucher generation.</p>
-      <ul>
-        <li><strong>Local Persistence:</strong> Relational SQLite database engine featuring 6 structured schema migrations with defensive transactions.</li>
-        <li><strong>Automated Quality:</strong> Comprehensive test harness with <strong>53 automated unit and integration tests</strong> (JUnit 4 & Robolectric) achieving 100% pass rate.</li>
-        <li><strong>Digital Vouchers:</strong> Native PDF booking voucher rendering using Android Canvas graphics.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack:</strong> <code>Java</code> • <code>Android Studio</code> • <code>SQLite</code> • <code>JUnit 4</code> • <code>Robolectric</code>
-      </p>
-      <p>
-        🔗 <a href="https://github.com/januuthayan1967-cloud/LuxeVistaResortApp" target="_blank"><strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🌌 04. Full-Stack 3D Portfolio & Admin Console</h3>
-      <p><strong>Interactive Personal Branding & Real-Time CMS</strong></p>
-      <p>Deployed interactive web platform featuring Three.js animations and an administrative console for project and asset management.</p>
-      <ul>
-        <li><strong>Interactive Visuals:</strong> Hardware-accelerated 3D orbital constellations built with Three.js and Framer Motion.</li>
-        <li><strong>Admin Console:</strong> Password-authenticated management engine for dynamic project showcase updates and Cloudinary asset management.</li>
-        <li><strong>Production Architecture:</strong> Node.js & Express REST API backed by MongoDB Atlas with continuous deployment on Vercel.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack:</strong> <code>React</code> • <code>Three.js</code> • <code>Express.js</code> • <code>MongoDB Atlas</code> • <code>Cloudinary</code> • <code>Vercel</code>
-      </p>
-      <p>
-        🔗 <a href="https://portfolio-website-src.vercel.app/" target="_blank"><strong>Live Production App</strong></a> • <a href="https://github.com/januuthayan1967-cloud/portfolio-website" target="_blank"><strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🩺 01. Smart Oral Disease Detection & Dental Care Assistance
+> **BSc Capstone Flagship Platform • AI-Assisted Clinical Telehealth & Diagnostic System**
+
+An intelligent dual-engine healthcare platform combining automated deep learning screening with clinical specialist teleconsultation workflows.
+
+- **AI Diagnostic Screening:** Python Flask microservice leveraging `MobileNetV3` transfer learning for automated oral lesion classification (oral cancer, leukoplakia, and benign lesions) with Gemini AI assistance.
+- **Clinical Telehealth Workflows:** Integrated specialist consultation workflows, patient appointment scheduling, and automated clinical PDF report generation.
+- **Multi-Role Access Control:** Role-Based Access Control (RBAC) securely segregating patient records, specialist consultations, and hospital administration portals.
+
+**Technology Stack:** `React` • `Node.js` • `Express.js` • `Python Flask` • `MobileNetV3` • `MongoDB Atlas` • `Gemini AI`
+
+[🌐 Live Production Application](https://smart-oral-disease-detection.vercel.app) &nbsp;•&nbsp; [📂 GitHub Repository](https://github.com/januuthayan1967-cloud/smart-oral-disease-detection)
+
+---
+
+#### 💼 02. Internship Finder SaaS Platform
+> **Full-Stack Enterprise Recruitment Portal • Integrated WebRTC Video Interviewing**
+
+A comprehensive career recruitment platform engineered to connect undergraduates with hiring companies for verified internship listings, streamlined talent discovery, and virtual interviews.
+
+- **Integrated Video Interviews:** Low-latency virtual interview sessions directly inside candidate and employer rooms powered by `WebRTC`.
+- **End-to-End Application Tracking:** Interactive candidate pipeline tracking applications across *Applied*, *Shortlisted*, *Interviewing*, and *Hired* states.
+- **Candidate Asset Pipeline:** Cloudinary-integrated resume/CV upload and parsing pipeline with authenticated recruiter dashboards.
+
+**Technology Stack:** `React 18` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB Atlas` • `WebRTC` • `Cloudinary`
+
+[📂 GitHub Repository](https://github.com/januuthayan1967-cloud/internship-finder)
+
+---
+
+#### 🏨 03. LuxeVista Resort Mobile Application
+> **Native Android Luxury Hospitality Suite • Relational SQLite & Automated Test Harness**
+
+A native Android application designed for luxury resort and villa bookings, guest service reservations, and dynamic digital PDF vouchers.
+
+- **Defensive SQLite Architecture:** Robust local relational database engine featuring 6 structured schema migrations with defensive transaction management.
+- **High-Coverage Test Harness:** **53 automated unit and integration tests** (JUnit 4 & Robolectric) achieving a 100% pass rate across database schemas and booking business logic.
+- **Canvas Graphics & PDF Generation:** Dynamic booking voucher rendering engine utilizing native Android `Canvas` graphics and vector PDF export.
+
+**Technology Stack:** `Java` • `Android SDK 35` • `Android Studio` • `SQLite` • `JUnit 4` • `Robolectric`
+
+[📂 GitHub Repository](https://github.com/januuthayan1967-cloud/LuxeVistaResortApp)
+
+---
+
+#### 🌌 04. Full-Stack 3D Portfolio & Admin Console
+> **Interactive Personal Branding Platform & Real-Time Content Management Engine**
+
+Deployed single-page portfolio platform featuring hardware-accelerated 3D graphics and an authenticated executive administrative console for asset and project management.
+
+- **3D Orbital Visualizations:** Interactive real-time orbital particle networks and fluid UI transitions engineered with Three.js and Framer Motion.
+- **Executive Administration Console:** Password-authenticated management engine for dynamic showcase updates, inquiry analytics, and Cloudinary asset synchronization.
+- **Scalable Production Deployment:** Containerized Node.js / Express backend with MongoDB Atlas, continuously deployed on Vercel with zero downtime.
+
+**Technology Stack:** `React` • `Three.js` • `Framer Motion` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Cloudinary` • `Vercel`
+
+[🌐 Live Production Application](https://portfolio-website-src.vercel.app/) &nbsp;•&nbsp; [📂 GitHub Repository](https://github.com/januuthayan1967-cloud/portfolio-website)
 
 ---
 
 ### ✦ Academic Credentials
 
-```yaml
-- Qualification: BSc (Hons) in Software Engineering
-  Awarding Body: Cardiff Metropolitan University, United Kingdom
-  Institution:   ICBT Campus, Sri Lanka
-  Timeline:      2025 – 2026
-  Status:        Coursework completed; final examination results pending
-  Focus Areas:   Distributed Systems, Advanced Software Architecture, Applied AI / Computer Vision
+#### 🎓 BSc (Hons) in Software Engineering
+- **Institution:** ICBT Campus, Sri Lanka
+- **Awarding University:** Cardiff Metropolitan University, United Kingdom
+- **Academic Period:** 2025 – 2026
+- **Current Status:** Coursework completed • Final examination results pending
+- **Relevant Areas of Study:** Distributed Systems, Advanced Software Architecture, Enterprise Application Development, Applied Artificial Intelligence
 
-- Qualification: Higher National Diploma (HND) in Computing & Software Engineering
-  Awarding Body: ICBT Campus, Sri Lanka
-  Timeline:      2023 – 2025
-  Status:        Completed (Graduated)
-  Focus Areas:   Full-Stack Web Engineering, Mobile Systems, Database Management Systems, Data Structures & Algorithms
+---
 
-- Qualification: G.C.E. Advanced Level in Physical Science
-  Curriculum:    Ministry of Education, Sri Lanka
-  Timeline:      Completed 2021
-  Subjects:      Physics, Combined Mathematics, Chemistry
-```
+#### 📜 Higher National Diploma (HND) in Computing & Software Engineering
+- **Institution:** ICBT Campus, Sri Lanka
+- **Academic Period:** 2023 – 2025
+- **Completion Status:** Completed & Graduated (2025)
+- **Relevant Areas of Study:** Full-Stack Web Development, Mobile Application Systems, Relational Database Management Systems, Data Structures & Algorithms
+
+---
+
+#### 🏛️ G.C.E. Advanced Level in Physical Science
+- **Curriculum:** Ministry of Education, Sri Lanka
+- **Completion Year:** 2021
+- **Academic Focus:** Physics, Combined Mathematics, Chemistry
 
 ---
 
@@ -218,7 +206,9 @@ Practical engineering background in full-stack web architectures, native Android
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=januuthayan1967-cloud&show_icons=true&theme=tokyonight&bg_color=060608&title_color=D4AF37&text_color=E6EDF3&icon_color=D4AF37&border_color=D4AF37&border_radius=8&count_private=true" alt="Vanojan's GitHub Statistics" />
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=januuthayan1967-cloud&layout=compact&theme=tokyonight&bg_color=060608&title_color=D4AF37&text_color=E6EDF3&border_color=D4AF37&border_radius=8" alt="Top Languages" />
 </p>
 
@@ -226,11 +216,10 @@ Practical engineering background in full-stack web architectures, native Android
   <img src="https://streak-stats.demolab.com/?user=januuthayan1967-cloud&theme=tokyonight&background=060608&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&border_radius=8" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <sub><em>Note: Language metrics reflect public repository distributions and are dynamically generated by GitHub's API.</em></sub>
-</p>
-
 </div>
+
+> ℹ️ **Note on Language Telemetry:**  
+> GitHub Linguist statistics reflect codebase byte volume across public repositories. **React (JSX)** and **Node.js** source files are classified under **JavaScript** by GitHub's language detection engine, which accounts for JavaScript representing >52% of the aggregate public codebase. **Jupyter Notebooks** reflect machine learning model experimentation and training pipelines for the oral disease detection and stellar classification projects.
 
 ---
 
@@ -260,12 +249,9 @@ Are you looking for a motivated **Graduate Software Engineer** or **Associate Fu
 
 <br/><br/>
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  Available for on-site, hybrid, or remote opportunities worldwide.     │
-│  Response window: Within 24 business hours.                            │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <em>Available for Graduate Software Engineer &amp; Associate Full-Stack Developer opportunities worldwide (On-Site, Hybrid, or Remote).</em>
+</p>
 
 <br/>
 
